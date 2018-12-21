@@ -11,7 +11,7 @@ DAftar Repo Teknologi Cloud Terapan
 ### **Daftar Repo :**
 
 | Pertemuan     | Nama Repo     |Tanggal| Kegunaan |
-| ------------- |:-------------:| -----:| --------:|
+| :-------------: |:-------------:| :-----:| :--------|
 | 1    | [tct](https://github.com/riskalest/tct/tree/master/minggu-01)     |    Sep 21, 2018  | Untuk menjelaskan tentang Cloud Computing serta layanan dan penerapannya|
 | 2    | [tct](https://github.com/riskalest/tct/tree/master/minggu-02)     |    Sep 28, 2018  | Menjelaskan tentang SAAS dan bagaimana cara membangun SAAS |
 | 3    | [tct](https://github.com/riskalest/tct/tree/master/minggu-03)     |    Oct 5, 2018  | Disini dibahas cara memasang aplikasi open sourece layanan komputasi awan yang bernama Microsoft Azure yang merupakan salah satu Cloud Computing Architecture |
