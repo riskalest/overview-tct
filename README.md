@@ -1,11 +1,11 @@
-DAftar Repo Teknologi Cloud Terapan
+Daftar Repo Teknologi Cloud Terapan
 ===================================
 
 ### **Dibuat Oleh :**
 
-	Nama 	:  Riska Lestari
+	Nama	:  Riska Lestari
 	------------------------
-	NIM		:  163210009
+	NIM	:  163210009
 	--------------------
 
 ### **Daftar Repo :**
@@ -25,7 +25,7 @@ DAftar Repo Teknologi Cloud Terapan
 | 11    | [Tct_Per_11_Docker](https://github.com/riskalest/Tct_Per_11_Docker)     |    Nov 30, 2018 | Penjelasan tentang Docker dan praktik bagaimana menggunakan Docker, membuat image di docker, dan menjalankannya |
 | 12    | [Tct_Per_12_Docker](https://github.com/riskalest/Tct_Per_12_Docker)     |     Dec 7, 2018 | Mempraktikkan Docker - Orchestration using Docker Compose |
 | 13    | [pbd-express-mongoose-mvc](https://github.com/riskalest/pbd-express-mongoose-mvc)     |     Dec 14, 2018 | Memperbaiaki tampilan pada Readme.md |
-| 14    | [overview-tct](https://github.com/riskalest/pbd-express-mongoose-mvc)     |     Dec 21, 2018 | Membuat Overview dari pertemuan 1 sampai pertemuan 13 |
+| 14    | [overview-tct](https://github.com/riskalest/overview-tct)     |     Dec 21, 2018 | Membuat Overview dari pertemuan 1 sampai pertemuan 13 |
 
 
 #### Terimakasih
